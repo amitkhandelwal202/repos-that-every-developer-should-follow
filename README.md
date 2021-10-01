@@ -7,3 +7,4 @@ GitHub repositories every developer should follow.
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [Public APIs](https://github.com/public-apis/public-apis)
+- [JS Algorithms](https://github.com/trekhleb/javascript-algorithms)
