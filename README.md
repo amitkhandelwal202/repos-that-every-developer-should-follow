@@ -9,3 +9,6 @@ GitHub repositories every developer should follow.
 - [Public APIs](https://github.com/public-apis/public-apis)
 - [JS Algorithms](https://github.com/trekhleb/javascript-algorithms)
 - [Awesome interview questions](https://github.com/DopplerHQ/awesome-interview-questions)
+- [100 Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+- [The Algorithms](https://github.com/TheAlgorithms)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
